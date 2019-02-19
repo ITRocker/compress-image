@@ -3,7 +3,7 @@ apply plugin: 'com.novoda.bintray-release'//添加jcenter发布插件
 
 def GROUP = 'cn.mydreamy.gradle.plugin'
 def ARTIFACT_ID = 'compress-image'
-def VERSION = '1.0.0'
+def VERSION = '1.0.1'
 
 //添加
 publish {
